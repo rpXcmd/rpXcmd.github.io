@@ -1,3 +1,9 @@
+html *
+{
+   font-family: Open Sans;
+}
+
+
 table {
   border-spacing: 100px 0;
   margin-left: auto;
@@ -26,5 +32,19 @@ a:hover {
 .center {
   text-align: center;
   font-family: "Open Sans";
+  margin: 0px 200px;
 }
+
+ul {
+  display: table;
+  font-size: 22px;
+  margin: 0 auto;
+}
+
+li {
+  text-align: left;
+}
+
+h2 {
+  text-align: center;
 }
